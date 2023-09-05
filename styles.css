@@ -68,6 +68,7 @@ body {
     left: 50%;
     transform: translateX(-50%);
     width: -webkit-fill-available;
+    width: fill-available;
 }
 
 .bottom-image {
