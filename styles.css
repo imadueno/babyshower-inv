@@ -48,13 +48,15 @@ body {
 /* imagenes */
 
 .top-image,
-.bottom-image {
+.bottom-image,
+.estrellas {
     width: 100%;
     height: auto;
     display: block;
 }
 
-.top-image {
+.top-image,
+.estrellas {
     position: absolute;
     top: 0;
     left: 0;
